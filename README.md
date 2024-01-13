@@ -1,7 +1,7 @@
-# BitKiwi
+# Thanks for stopping by!
 ---
-- 🔭 I’m currently working on Leetcode, Leetcode **Leetcode**, 
-- 🌱 I’m currently learning...
+- 🔭 I’m currently working on Leetcode. 
+- 🌱 I’m currently learning that assemby is kinda fun
 - 🖥️ OS: Arch (with KDE Plasma)
 - ◼️ IDE: NeoVim
 - 📖 Favourite Language: C++
@@ -10,3 +10,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitskiwi&show_icons=true&theme=tokyonight)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitskiwi&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/bitskiwi/count.svg)
