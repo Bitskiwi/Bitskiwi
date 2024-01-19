@@ -1,10 +1,9 @@
 # Thanks for stopping by!
 ---
-- 🔭 I’m currently working on Leetcode. 
+- 🔭 I’m currently working on KiwiOS. 
 - 🌱 I’m currently learning that assemby is kinda fun
 - 🖥️ OS: Arch (with KDE Plasma)
-- ◼️ IDE: NeoVim
-- 📖 Favourite Language: C++
+- ◼️ IDE: Vim
 - ⚡ Fun fact: Kiwi feathers are more like fur!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitskiwi&show_icons=true&theme=tokyonight)
