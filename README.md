@@ -1,7 +1,7 @@
 # Thanks for stopping by!
 ---
-- 🔭 I’m currently working on KiwiOS. 
-- 🌱 I’m currently learning that assemby is kinda fun
+- 🔭 I’m currently working on C projects.
+- 🌱 I’m currently learning that assembly is more fun than C
 - 🖥️ OS: Arch (with KDE Plasma and Kwin)
 - ◼️ IDE: Vim
 - ⬜ Tabs or Spaces: Tabs (but only when 4 spaces long)
