@@ -1,7 +1,7 @@
 # Thanks for stopping by!
 ---
 - 🔭 I’m currently working on my game Rebinary.
-- 🌱 I’m currently learning to commit every day
+- 🌱 I’m currently learning 
 - 🖥️ OS: Arch (with KDE Plasma and Kwin)
 - ◼️ IDE: Nvim
 - ⬜ Tabs or Spaces: Tabs (but only when 4 spaces long)
